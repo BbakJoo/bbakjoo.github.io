@@ -3,4 +3,4 @@ title: "About"
 layout: about
 ---
 
-# This is about myself.
+his is about myself
