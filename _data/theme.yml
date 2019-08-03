@@ -35,6 +35,7 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - tags.md
-  - categories.md
   - posts.md
+  - categories.md
+  - tags.md
+
