@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Ju-Un Park
+title: BbakJoo
 email: pju2000@gmail.com
-description: BbakJoo's Programming Language Learning Log site
+description: My Learning History
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://bbakjoo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
@@ -39,7 +39,7 @@ algolia:
 markdown: kramdown
 theme: jekyll-theme-basically-basic
 plugins: # previsously gems
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
